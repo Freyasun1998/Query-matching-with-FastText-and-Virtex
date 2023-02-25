@@ -1,0 +1,4 @@
+compress_fasttext
+gunicorn
+requests
+virtex
